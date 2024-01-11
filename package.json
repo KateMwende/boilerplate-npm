@@ -1,6 +1,6 @@
 {
-	"author": "Kate Mwende",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Kate Mwende",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
